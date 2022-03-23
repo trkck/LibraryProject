@@ -1,4 +1,4 @@
-package com.sahabt.application;
+package com.sahabt.library.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,7 +8,7 @@ public class LibraryProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LibraryProjectApplication.class, args);
-		System.out.println("deneme");
+		
 	}
 
 }
