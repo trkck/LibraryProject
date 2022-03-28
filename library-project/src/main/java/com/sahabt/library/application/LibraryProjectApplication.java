@@ -11,7 +11,7 @@ public class LibraryProjectApplication {
 		System.out.println("Ugur deneme");
 		System.out.println("Deneme 2");
 		//asg
-		
+		System.out.println("ali");
 	}
 
 }
